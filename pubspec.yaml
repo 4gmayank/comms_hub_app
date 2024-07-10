@@ -1,0 +1,28 @@
+name: comms_hub_app
+description: "RTSP Video Project"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+#  flutter_ffmpeg: ^0.4.2
+  chewie: ^1.7.5
+  flutter_vlc_player: ^7.4.2
+#  video_player: ^2.8.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+
+flutter:
+
+  uses-material-design: true
