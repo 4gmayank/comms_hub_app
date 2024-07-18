@@ -12,7 +12,10 @@ class HomeScreen extends StatefulWidget {
 }
 
 class _HomeScreenState extends State<HomeScreen> {
-  final String rtsp = "rtsp://192.168.1.10:8554/test";
+  //home ip address
+  // final String rtsp = "rtsp://192.168.1.10:8554/test";
+  //hotel ip address
+  final String rtsp = "rtsp://10.240.241.192:8554/test";
 
   @override
   Widget build(BuildContext context) {
