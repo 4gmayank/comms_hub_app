@@ -1,7 +1,3 @@
-Here is a **clean, professional, developer-friendly README** you can use for your RTSP streaming app — **AND** it keeps space for your future plan (RTSP Video Chat App).
-
----
-
 # 📡 comms_hub_app
 
 A Flutter-based RTSP media streaming client with clean architecture and error handling.
@@ -42,9 +38,7 @@ flutter run
 
 ---
 
-## 📸 Screenshots (optional)
-
-Add screenshots later if you want.
+## 📸 Screenshots 
 
 ---
 
